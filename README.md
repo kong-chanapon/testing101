@@ -10,10 +10,6 @@
 npm install
 ```
 
-```bash
-npm run build
-```
-
 ### 2. รัน Tests
 
 ```bash
